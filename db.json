@@ -1,14 +1,24 @@
 {
  "users":[
- "Aman",
- "Chaman",
- "Baman",
- "Raman"
- ],
- "location":[
- "Banglore",
- "Udupi",
- "Manglore",
- "Mysore"
+ "Aman":{
+  "age":18,
+  "occupation":"Office worker",
+  "location":"Udupi"
+  },
+ "Chaman":{
+  "age":28,
+  "occupation":"Manager",
+  "location":"Manglore"
+  },
+ "Baman":{
+  "age":24,
+  "occupation":"Clerk",
+  "location":"Mysore"
+  },
+ "Raman":{
+  "age":14,
+  "occupation":"Student",
+  "location":"Sringeri"
+  }
  ]
 }
